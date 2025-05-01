@@ -1,7 +1,7 @@
 # Simple To-Do List Application
 
 This is a simple To-Do List application built using PHP, MySQL, and Tailwind CSS. It allows users to add, mark as completed, and delete tasks. This guide will walk you through creating this project step by step.
-![screenshot of project](https://i.ibb.co/xqhLDz2t/Screenshot-2025-05-01-140521.jpg)
+![screenshot of project](https://github.com/Behparvar/PHP_LearningJourney/blob/21dc65182ca0ffb561760c7b098ca67e7f5974e0/simple_ToDoList/Screenshot%202025-05-01%20151320.jpg)
 ---
 
 ## Features
