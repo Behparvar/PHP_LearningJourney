@@ -1,6 +1,7 @@
 # Phone Book Application
 
 Welcome to my Phone Book Application! This is a simple web app I built to manage contacts. You can add, edit, delete, search, and sort contacts. It’s built with PHP and uses a MySQL database to store all the contact info. I used Tailwind CSS to make it look nice and clean. Below, you’ll find everything you need to know to set it up and use it!
+![screenshot of project](https://github.com/Behparvar/PHP_LearningJourney/blob/0f79e9a103a699ced36bd4a0acad4db4721bb8e6/simple_PhoneBook/Screenshot%202025-05-01%20193605.jpg)
 
 
 ## Table of Contents
