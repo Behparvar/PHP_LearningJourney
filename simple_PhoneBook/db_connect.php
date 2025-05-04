@@ -1,9 +1,9 @@
 <?php
 // Database connection settings
 $host = 'localhost'; 
-$db_name = 'phonebook_db';
+$db_name = 'phonebook';
 $username ='root';
-$password = 'ali.k1990';
+$password = 'admin';
 try {
     // Create a new PDO instance
     $pdo = new PDO("mysql:host=$host;dbname=$db_name", $username, $password);
